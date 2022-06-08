@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **ba40431/ba40431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Hi 👋, I'm Abby</h3>
+<h3>Hi 👋, I'm Abby</h3>
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
