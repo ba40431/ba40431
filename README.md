@@ -1,27 +1,36 @@
-<!-- ### Hi there 👋 -->
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Abby.</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ba40431" alt="ba40431" /> </p>
+<br />
+<a href="https://www.linkedin.com/in/yu-ting-ho-206064237/">
+  <img align="left" alt="ba40431's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ba40431">
+  <img align="left" alt="ba40431's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/abby_foodie_/">
+  <img align="left" alt="ba40431's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="">
+  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/write-dot-as.svg" />
+</a>
+<br />
 
-<!--
-**ba40431/ba40431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
 
-<h3>Hi 👋, I'm Abby</h3>
-<!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
-</p>
+- 👩‍💻 I am Abby from Taiwan.
+- 🔭 I am currently a backend engineer.
+- 🌱 I’m currently learning Node.js , Deep Learning.
+- 👯 I’m looking to collaborate on Open-source Projects.
+- 💬 Ask me about Web.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+**Languages and Tools**
+
+<p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -71,3 +80,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+**Web & Stocks**
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ba40431&show_icons=true&theme=white" alt="ba40431" /> 
+</p>
+
+---
+⭐️ From [ba40431](https://github.com/ba40431)
