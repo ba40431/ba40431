@@ -22,7 +22,7 @@
 
 - 👩‍💻 I am Abby from Taiwan.
 - 🔭 I am currently a backend engineer.
-- 🌱 I’m currently learning Node.js / MySL, Deep Learning.
+- 🌱 I’m currently learning Node.js / MySQL.
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Web.
 
